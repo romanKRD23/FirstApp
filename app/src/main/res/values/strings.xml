@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">FirstApp</string>
     <string name="nmedia">NMedia!</string>
+    <string name="description_post_author_avatar">Post author avatar</string>
+    <string name="description_post_menu">Post menu</string>
+    <string name="description_image_view_count">Icon view count</string>
+    <string name="description_image_share_count">Icon share count</string>
+    <string name="description_image_like_count">Icon like count</string>
+
 </resources>

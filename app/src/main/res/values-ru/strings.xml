@@ -2,4 +2,7 @@
 <resources>
     <string name="app_name">FirstApp</string>
     <string name="nmedia">НМедиа!</string>
+    <string name="description_post_author_avatar">Аватарка автора поста</string>
+    <string name="description_post_menu">Меню поста</string>
+    <string name="description_image_view_count">Иконка количества просмотров поста</string>
 </resources>
