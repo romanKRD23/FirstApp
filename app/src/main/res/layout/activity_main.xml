@@ -60,7 +60,7 @@
 
     <TextView
         android:id="@+id/content"
-        android:layout_width="match_parent"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:paddingBottom="16dp"
@@ -78,7 +78,7 @@
     <TextView
         android:id="@+id/viewsCount"
         android:layout_width="0dp"
-        android:layout_height="25dp"
+        android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="@id/imageViews"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="@id/imageViews"
@@ -111,7 +111,7 @@
     <TextView
         android:id="@+id/likeCount"
         android:layout_width="0dp"
-        android:layout_height="25dp"
+        android:layout_height="wrap_content"
         android:layout_marginStart="28dp"
         app:layout_constraintBottom_toBottomOf="@id/imageLike"
         app:layout_constraintStart_toStartOf="parent"
@@ -133,7 +133,7 @@
     <TextView
         android:id="@+id/shareCount"
         android:layout_width="0dp"
-        android:layout_height="25dp"
+        android:layout_height="wrap_content"
         android:layout_marginStart="100dp"
         app:layout_constraintBottom_toBottomOf="@id/imageShare"
         app:layout_constraintStart_toStartOf="parent"
